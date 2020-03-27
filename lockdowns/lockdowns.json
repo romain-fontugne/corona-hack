@@ -1,626 +1,5 @@
-[
-    {
-        "cc": "IT",
-        "end": "2020-04-03",
-        "eyeball": [
-            {
-                "as": 3269,
-                "as-descr": "",
-                "autnum": "ASN-IBSNAZ",
-                "cc": "IT",
-                "cumulative": 22.62693667988819,
-                "percent": 22.62693667988819,
-                "samples": 2349656,
-                "v6capable": 0.006766948012815493,
-                "v6preferred": 0.006256234955244512
-            },
-            {
-                "as": 30722,
-                "as-descr": "",
-                "autnum": "VODAFONE-IT-ASN",
-                "cc": "IT",
-                "cumulative": 43.69054684408654,
-                "percent": 21.063610164198348,
-                "samples": 2187315,
-                "v6capable": 0.013624009344790302,
-                "v6preferred": 0.011018074671457928
-            },
-            {
-                "as": 1267,
-                "as-descr": "IUNET",
-                "autnum": "ASN-WINDTRE",
-                "cc": "IT",
-                "cumulative": 60.17900430947357,
-                "percent": 16.488457465387032,
-                "samples": 1712216,
-                "v6capable": 0.011447153863764853,
-                "v6preferred": 0.009578230783966508
-            },
-            {
-                "as": 12874,
-                "as-descr": "",
-                "autnum": "FASTWEB",
-                "cc": "IT",
-                "cumulative": 71.14520906546603,
-                "percent": 10.966204755992466,
-                "samples": 1138767,
-                "v6capable": 37.44356835068104,
-                "v6preferred": 37.2252620597541
-            }
-        ],
-        "name": "Italy",
-        "scope": "National",
-        "start": "2020-03-09"
-    },
-    {
-        "cc": "DK",
-        "end": "2020-04-13",
-        "eyeball": [
-            {
-                "as": 3292,
-                "as-descr": "TDC A/S",
-                "autnum": "TDC",
-                "cc": "DK",
-                "cumulative": 40.91017314122652,
-                "percent": 40.91017314122652,
-                "samples": 233683,
-                "v6capable": 0.4617366261131533,
-                "v6preferred": 0.3303620716954164
-            }
-        ],
-        "name": "Denmark",
-        "scope": "National",
-        "start": "2020-03-11"
-    },
-    {
-        "cc": "SV",
-        "end": "2020-04-01",
-        "eyeball": [
-            {
-                "as": 14754,
-                "as-descr": "",
-                "autnum": "Telgua",
-                "cc": "SV",
-                "cumulative": 51.04708776737569,
-                "percent": 51.04708776737569,
-                "samples": 282393,
-                "v6capable": 0.004249397116784057,
-                "v6preferred": 0.003895280690385385
-            },
-            {
-                "as": 27773,
-                "as-descr": "CABLE EL SALVADOR S.A. DE C.V.",
-                "autnum": "MILLICOM",
-                "cc": "SV",
-                "cumulative": 74.15062517963634,
-                "percent": 23.103537412260643,
-                "samples": 127809,
-                "v6capable": 0.003912087568168126,
-                "v6preferred": 0.003912087568168126
-            },
-            {
-                "as": 17079,
-                "as-descr": "El Salvador S.A.",
-                "autnum": "Telemovil",
-                "cc": "SV",
-                "cumulative": 84.54196575928098,
-                "percent": 10.39134057964465,
-                "samples": 57485,
-                "v6capable": 0.0017395842393667913,
-                "v6preferred": 0.0017395842393667913
-            }
-        ],
-        "name": "El Salvador",
-        "scope": "National",
-        "start": "2020-03-12"
-    },
-    {
-        "cc": "IE",
-        "end": "2020-03-29",
-        "eyeball": [
-            {
-                "as": 6830,
-                "as-descr": "formerly known as UPC Broadband Holding B.V.",
-                "autnum": "LGI-UPC",
-                "cc": "IE",
-                "cumulative": 19.767877029371434,
-                "percent": 19.767877029371434,
-                "samples": 130467,
-                "v6capable": 49.07601155847839,
-                "v6preferred": 48.469727977189635
-            },
-            {
-                "as": 15502,
-                "as-descr": "",
-                "autnum": "VODAFONE-IRELAND-ASN",
-                "cc": "IE",
-                "cumulative": 39.47620815309207,
-                "percent": 19.708331123720633,
-                "samples": 130074,
-                "v6capable": 0.0661162107723296,
-                "v6preferred": 0.05381552039608223
-            },
-            {
-                "as": 5466,
-                "as-descr": "Internet House",
-                "autnum": "EIRCOM",
-                "cc": "IE",
-                "cumulative": 59.02408351578421,
-                "percent": 19.547875362692142,
-                "samples": 129015,
-                "v6capable": 59.04352207107701,
-                "v6preferred": 58.62806650389489
-            }
-        ],
-        "name": "Ireland",
-        "scope": "National",
-        "start": "2020-03-12"
-    },
-    {
-        "cc": "NO",
-        "end": "2020-04-13",
-        "eyeball": [
-            {
-                "as": 2119,
-                "as-descr": "Telenor Norge AS",
-                "autnum": "TELENOR-NEXTEL",
-                "cc": "NO",
-                "cumulative": 30.468083891935088,
-                "percent": 30.468083891935088,
-                "samples": 170812,
-                "v6capable": 38.15130084537386,
-                "v6preferred": 37.87029014354963
-            },
-            {
-                "as": 29695,
-                "as-descr": "Norway",
-                "autnum": "ALTIBOX_AS",
-                "cc": "NO",
-                "cumulative": 45.5713791368934,
-                "percent": 15.103295244958314,
-                "samples": 84673,
-                "v6capable": 2.358484995216893,
-                "v6preferred": 2.1305492896200677
-            },
-            {
-                "as": 41164,
-                "as-descr": "GET Norway",
-                "autnum": "GET-NO",
-                "cc": "NO",
-                "cumulative": 55.80654482667589,
-                "percent": 10.235165689782493,
-                "samples": 57381,
-                "v6capable": 1.652114811522978,
-                "v6preferred": 1.530123211516007
-            }
-        ],
-        "name": "Norway",
-        "scope": "National",
-        "start": "2020-03-12"
-    },
-    {
-        "cc": "ES",
-        "end": "2020-04-11",
-        "eyeball": [
-            {
-                "as": 3352,
-                "as-descr": "",
-                "autnum": "TELEFONICA_DE_ESPANA",
-                "cc": "ES",
-                "cumulative": 29.528400090103545,
-                "percent": 29.528400090103545,
-                "samples": 2255999,
-                "v6capable": 0.005407803815515875,
-                "v6preferred": 0.004920214946903789
-            },
-            {
-                "as": 12479,
-                "as-descr": "",
-                "autnum": "UNI2-AS",
-                "cc": "ES",
-                "cumulative": 53.39781591835394,
-                "percent": 23.869415828250393,
-                "samples": 1823647,
-                "v6capable": 13.053238921786948,
-                "v6preferred": 12.974331106842497
-            },
-            {
-                "as": 12430,
-                "as-descr": "",
-                "autnum": "VODAFONE_ES",
-                "cc": "ES",
-                "cumulative": 66.54348327161729,
-                "percent": 13.145667353263354,
-                "samples": 1004342,
-                "v6capable": 0.008562820234541621,
-                "v6preferred": 0.007368008108791626
-            }
-        ],
-        "name": "Spain",
-        "scope": "National",
-        "start": "2020-03-14"
-    },
-    {
-        "cc": "LB",
-        "end": "2020-03-29",
-        "eyeball": [
-            {
-                "as": 42003,
-                "as-descr": "OGERO Telecom",
-                "autnum": "OGERONET",
-                "cc": "LB",
-                "cumulative": 17.6348949787053,
-                "percent": 17.6348949787053,
-                "samples": 344877,
-                "v6capable": 6.79401641744738,
-                "v6preferred": 6.692241001864433
-            },
-            {
-                "as": 59989,
-                "as-descr": "",
-                "autnum": "THGLOBALVISION16",
-                "cc": "LB",
-                "cumulative": 29.231647159948274,
-                "percent": 11.596752181242973,
-                "samples": 226792,
-                "v6capable": 0.006613989911460722,
-                "v6preferred": 0.005291191929168578
-            },
-            {
-                "as": 9051,
-                "as-descr": "",
-                "autnum": "Beirut-Lebanon",
-                "cc": "LB",
-                "cumulative": 40.09171370556403,
-                "percent": 10.860066545615757,
-                "samples": 212385,
-                "v6capable": 0.02307130917908515,
-                "v6preferred": 0.0221296230901429
-            }
-        ],
-        "name": "Lebanon",
-        "scope": "National",
-        "start": "2020-03-15"
-    },
-    {
-        "cc": "AT",
-        "end": "2020-04-13",
-        "eyeball": [
-            {
-                "as": 25255,
-                "as-descr": "==) TELE2 AUSTRIA (==",
-                "autnum": "H3G-AUSTRIA-AS",
-                "cc": "AT",
-                "cumulative": 19.102672657398813,
-                "percent": 19.102672657398813,
-                "samples": 131077,
-                "v6capable": 0.0381455175202362,
-                "v6preferred": 0.025938951913760614
-            },
-            {
-                "as": 8447,
-                "as-descr": "A1 Telekom Austria AG",
-                "autnum": "TELEKOM-AT",
-                "cc": "AT",
-                "cumulative": 37.13170623649207,
-                "percent": 18.02903357909326,
-                "samples": 123710,
-                "v6capable": 12.755638186080349,
-                "v6preferred": 11.468757578207097
-            },
-            {
-                "as": 6830,
-                "as-descr": "formerly known as UPC Broadband Holding B.V.",
-                "autnum": "LGI-UPC",
-                "cc": "AT",
-                "cumulative": 51.90717765688145,
-                "percent": 14.775471420389378,
-                "samples": 101385,
-                "v6capable": 48.048527888740935,
-                "v6preferred": 47.568180697341816
-            },
-            {
-                "as": 8412,
-                "as-descr": "Rennweg 97-99",
-                "autnum": "TMA",
-                "cc": "AT",
-                "cumulative": 65.00828510677368,
-                "percent": 13.101107449892227,
-                "samples": 89896,
-                "v6capable": 1.4483403043516954,
-                "v6preferred": 1.4383287354276053
-            }
-        ],
-        "name": "Austria",
-        "scope": "National",
-        "start": "2020-03-16"
-    },
-    {
-        "cc": "CZ",
-        "end": "2020-04-01",
-        "eyeball": [
-            {
-                "as": 5610,
-                "as-descr": "",
-                "autnum": "O2-CZECH-REPUBLIC",
-                "cc": "CZ",
-                "cumulative": 20.18895512315825,
-                "percent": 20.18895512315825,
-                "samples": 269250,
-                "v6capable": 43.60222841225627,
-                "v6preferred": 43.206685236768806
-            },
-            {
-                "as": 6830,
-                "as-descr": "formerly known as UPC Broadband Holding B.V.",
-                "autnum": "LGI-UPC",
-                "cc": "CZ",
-                "cumulative": 34.671840437896,
-                "percent": 14.48288531473775,
-                "samples": 193151,
-                "v6capable": 11.120832923464025,
-                "v6preferred": 11.050421690801498
-            },
-            {
-                "as": 13036,
-                "as-descr": "",
-                "autnum": "TMOBILE-",
-                "cc": "CZ",
-                "cumulative": 45.66273010160087,
-                "percent": 10.99088966370487,
-                "samples": 146580,
-                "v6capable": 11.38968481375358,
-                "v6preferred": 11.309182698867513
-            }
-        ],
-        "name": "Czech",
-        "scope": "National",
-        "start": "2020-03-16"
-    },
-    {
-        "cc": "LT",
-        "end": "2020-04-13",
-        "eyeball": [
-            {
-                "as": 8764,
-                "as-descr": "",
-                "autnum": "TELIA-LIETUVA",
-                "cc": "LT",
-                "cumulative": 40.955560655300815,
-                "percent": 40.955560655300815,
-                "samples": 387268,
-                "v6capable": 0.01084520280529246,
-                "v6preferred": 0.010328764576469009
-            },
-            {
-                "as": 1257,
-                "as-descr": "",
-                "autnum": "TELE2",
-                "cc": "LT",
-                "cumulative": 55.8364645651721,
-                "percent": 14.880903909871286,
-                "samples": 140711,
-                "v6capable": 0.0014213529859072851,
-                "v6preferred": 0.0014213529859072851
-            },
-            {
-                "as": 13194,
-                "as-descr": "Bite IP Network",
-                "autnum": "BITE",
-                "cc": "LT",
-                "cumulative": 66.52248723271724,
-                "percent": 10.686022667545139,
-                "samples": 101045,
-                "v6capable": 0.0029689742194071948,
-                "v6preferred": 0.0029689742194071948
-            }
-        ],
-        "name": "Lithuania",
-        "scope": "National",
-        "start": "2020-03-16"
-    },
-    {
-        "cc": "FR",
-        "end": "2020-04-01",
-        "eyeball": [
-            {
-                "as": 3215,
-                "as-descr": "Telecom - Orange",
-                "autnum": "France",
-                "cc": "FR",
-                "cumulative": 29.685468034872436,
-                "percent": 29.685468034872436,
-                "samples": 2331087,
-                "v6capable": 59.330389642257025,
-                "v6preferred": 59.00062932014121
-            },
-            {
-                "as": 12322,
-                "as-descr": "",
-                "autnum": "PROXAD",
-                "cc": "FR",
-                "cumulative": 45.656354184972656,
-                "percent": 15.970886150100222,
-                "samples": 1254133,
-                "v6capable": 92.4419499367292,
-                "v6preferred": 91.83667123024432
-            },
-            {
-                "as": 15557,
-                "as-descr": "",
-                "autnum": "LDCOMNET",
-                "cc": "FR",
-                "cumulative": 59.87940330743115,
-                "percent": 14.223049122458491,
-                "samples": 1116882,
-                "v6capable": 0.5167958656330749,
-                "v6preferred": 0.4535841745144071
-            },
-            {
-                "as": 5410,
-                "as-descr": "",
-                "autnum": "BOUYGTEL-ISP",
-                "cc": "FR",
-                "cumulative": 73.20838140646052,
-                "percent": 13.328978099029369,
-                "samples": 1046674,
-                "v6capable": 38.31861687593272,
-                "v6preferred": 37.99253635802552
-            }
-        ],
-        "name": "France",
-        "scope": "National",
-        "start": "2020-03-17"
-    },
-    {
-        "cc": "HN",
-        "end": "2020-03-29",
-        "eyeball": [
-            {
-                "as": 52262,
-                "as-descr": "Celular S.A",
-                "autnum": "Telefonica",
-                "cc": "HN",
-                "cumulative": 23.244892931304083,
-                "percent": 23.244892931304083,
-                "samples": 138696,
-                "v6capable": 0.002163003979927323,
-                "v6preferred": 0.002163003979927323
-            },
-            {
-                "as": 14754,
-                "as-descr": "",
-                "autnum": "Telgua",
-                "cc": "HN",
-                "cumulative": 45.33069202058749,
-                "percent": 22.08579908928341,
-                "samples": 131780,
-                "v6capable": 0.0037942024586431933,
-                "v6preferred": 0.0037942024586431933
-            },
-            {
-                "as": 27884,
-                "as-descr": "S.A.",
-                "autnum": "CABLECOLOR",
-                "cc": "HN",
-                "cumulative": 58.33446460624161,
-                "percent": 13.003772585654119,
-                "samples": 77590,
-                "v6capable": 0.0,
-                "v6preferred": 0.0
-            }
-        ],
-        "name": "Honduras",
-        "scope": "National",
-        "start": "2020-03-17"
-    },
-    {
-        "cc": "BE",
-        "end": "2020-04-05",
-        "eyeball": [
-            {
-                "as": 5432,
-                "as-descr": "",
-                "autnum": "BELGACOM-SKYNET-AS",
-                "cc": "BE",
-                "cumulative": 42.74969093163381,
-                "percent": 42.74969093163381,
-                "samples": 476851,
-                "v6capable": 56.80243933639648,
-                "v6preferred": 56.24733931563528
-            },
-            {
-                "as": 6848,
-                "as-descr": "",
-                "autnum": "TELENET-AS",
-                "cc": "BE",
-                "cumulative": 75.14902070825292,
-                "percent": 32.399329776619105,
-                "samples": 361398,
-                "v6capable": 80.40442946557535,
-                "v6preferred": 79.97000536804299
-            },
-            {
-                "as": 12392,
-                "as-descr": "VOO",
-                "autnum": "ASBRUTELE",
-                "cc": "BE",
-                "cumulative": 85.2920214191774,
-                "percent": 10.143000710924479,
-                "samples": 113140,
-                "v6capable": 87.296270107831,
-                "v6preferred": 86.87113310942196
-            }
-        ],
-        "name": "Belgium",
-        "scope": "National",
-        "start": "2020-03-18"
-    },
-    {
-        "cc": "MY",
-        "end": "2020-04-14",
-        "eyeball": [
-            {
-                "as": 4788,
-                "as-descr": "TM Net, Internet Service Provider",
-                "autnum": "TMNET-AS-AP",
-                "cc": "MY",
-                "cumulative": 33.91864509617052,
-                "percent": 33.91864509617052,
-                "samples": 1746411,
-                "v6capable": 41.99773134731744,
-                "v6preferred": 41.31329910313208
-            },
-            {
-                "as": 9534,
-                "as-descr": "Binariang Berhad",
-                "autnum": "MAXIS-AS1-AP",
-                "cc": "MY",
-                "cumulative": 53.3496684582088,
-                "percent": 19.431023362038275,
-                "samples": 1000469,
-                "v6capable": 55.88449017410834,
-                "v6preferred": 54.27294598833147
-            },
-            {
-                "as": 4818,
-                "as-descr": "DiGi Telecommunications Sdn. Bhd.",
-                "autnum": "DIGIIX-AP",
-                "cc": "MY",
-                "cumulative": 67.72652701403797,
-                "percent": 14.376858555829168,
-                "samples": 740239,
-                "v6capable": 62.11480346212507,
-                "v6preferred": 61.012862062117776
-            },
-            {
-                "as": 38466,
-                "as-descr": "U Mobile Sdn Bhd",
-                "autnum": "UMOBILE-AS-AP",
-                "cc": "MY",
-                "cumulative": 80.20244626781694,
-                "percent": 12.47591925377897,
-                "samples": 642363,
-                "v6capable": 42.89755169584799,
-                "v6preferred": 42.191875933078336
-            },
-            {
-                "as": 10030,
-                "as-descr": "Celcom Axiata Berhad",
-                "autnum": "CELCOMNET-AP",
-                "cc": "MY",
-                "cumulative": 91.75788330653432,
-                "percent": 11.555437038717391,
-                "samples": 594969,
-                "v6capable": 50.55154134080935,
-                "v6preferred": 48.98473701991196
-            }
-        ],
-        "name": "Malaysia",
-        "scope": "National",
-        "start": "2020-03-18"
-    },
-    {
+{
+    "Argentina": {
         "cc": "AR",
         "end": "2020-03-31",
         "eyeball": [
@@ -629,261 +8,165 @@
                 "as-descr": "Argentina S.A.",
                 "autnum": "Telecom",
                 "cc": "AR",
-                "cumulative": 19.69904778668996,
-                "percent": 19.69904778668996,
-                "samples": 2144212,
-                "v6capable": 0.009327435906524168,
-                "v6preferred": 0.007461948725219335
+                "cumulative": 19.703730878929424,
+                "percent": 19.703730878929424,
+                "samples": 2111811,
+                "v6capable": 0.009375839031049653,
+                "v6preferred": 0.007481730135888107
             },
             {
                 "as": 27747,
                 "as-descr": "S.A.",
                 "autnum": "Telecentro",
                 "cc": "AR",
-                "cumulative": 29.90330322390265,
-                "percent": 10.20425543721269,
-                "samples": 1110718,
-                "v6capable": 73.74626142729298,
-                "v6preferred": 73.50686672944887
+                "cumulative": 29.90205193722643,
+                "percent": 10.198321058297006,
+                "samples": 1093038,
+                "v6capable": 73.81042562106715,
+                "v6preferred": 73.57063523866508
             },
             {
                 "as": 22927,
                 "as-descr": "de Argentina",
                 "autnum": "Telefonica",
                 "cc": "AR",
-                "cumulative": 40.04128306395742,
-                "percent": 10.13797984005477,
-                "samples": 1103504,
-                "v6capable": 2.837416085487683,
-                "v6preferred": 1.5779734373414143
+                "cumulative": 40.03213152521739,
+                "percent": 10.130079587990958,
+                "samples": 1085724,
+                "v6capable": 2.8122248379882917,
+                "v6preferred": 1.556380811329583
             }
         ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-17",
+                "sunday": "2020-02-23"
+            },
+            "lockdown": {
+                "monday": "2020-03-16",
+                "sunday": "2020-03-22"
+            }
+        },
         "name": "Argentina",
         "scope": "National",
         "start": "2020-03-19"
     },
-    {
-        "cc": "MA",
-        "end": "2020-04-20",
-        "eyeball": [
-            {
-                "as": 36903,
-                "as-descr": "",
-                "autnum": "MT-MPLS",
-                "cc": "MA",
-                "cumulative": 61.919653500358606,
-                "percent": 61.919653500358606,
-                "samples": 2482936,
-                "v6capable": 0.006162059755064166,
-                "v6preferred": 0.006081509954344373
-            },
-            {
-                "as": 6713,
-                "as-descr": "",
-                "autnum": "IAM-AS",
-                "cc": "MA",
-                "cumulative": 83.24412982564293,
-                "percent": 21.32447632528432,
-                "samples": 855097,
-                "v6capable": 0.0031575365134014037,
-                "v6preferred": 0.0029236449198161143
-            },
-            {
-                "as": 36925,
-                "as-descr": "",
-                "autnum": "ASMedi",
-                "cc": "MA",
-                "cumulative": 99.65296169610856,
-                "percent": 16.408831870465633,
-                "samples": 657983,
-                "v6capable": 0.004559388312464,
-                "v6preferred": 0.004559388312464
-            }
-        ],
-        "name": "Morocco",
-        "scope": "National",
-        "start": "2020-03-19"
-    },
-    {
-        "cc": "PT",
-        "end": "2020-04-02",
-        "eyeball": [
-            {
-                "as": 2860,
-                "as-descr": "",
-                "autnum": "NOS_COMUNICACOES",
-                "cc": "PT",
-                "cumulative": 34.32987476205762,
-                "percent": 34.32987476205762,
-                "samples": 1131501,
-                "v6capable": 0.03340695235797406,
-                "v6preferred": 0.020680494316841082
-            },
-            {
-                "as": 3243,
-                "as-descr": "",
-                "autnum": "MEO-RESIDENCIAL",
-                "cc": "PT",
-                "cumulative": 62.723614260584,
-                "percent": 28.39373949852638,
-                "samples": 935848,
-                "v6capable": 77.36192202152486,
-                "v6preferred": 76.32243697694497
-            },
-            {
-                "as": 12353,
-                "as-descr": "Vodafone Portugal",
-                "autnum": "VODAFONE-PT",
-                "cc": "PT",
-                "cumulative": 86.19230295458145,
-                "percent": 23.46868869399745,
-                "samples": 773520,
-                "v6capable": 46.88863894921916,
-                "v6preferred": 46.69691798531389
-            }
-        ],
-        "name": "Portugal",
-        "scope": "National",
-        "start": "2020-03-19"
-    },
-    {
-        "cc": "GR",
-        "end": "2020-04-06",
-        "eyeball": [
-            {
-                "as": 6799,
-                "as-descr": "Athens - Greece",
-                "autnum": "OTENET-GR",
-                "cc": "GR",
-                "cumulative": 41.91237150088612,
-                "percent": 41.91237150088612,
-                "samples": 2137668,
-                "v6capable": 80.62748752378761,
-                "v6preferred": 80.28491795732546
-            },
-            {
-                "as": 3329,
-                "as-descr": "Athens, Greece",
-                "autnum": "HOL-GR",
-                "cc": "GR",
-                "cumulative": 58.00041840454543,
-                "percent": 16.088046903659315,
-                "samples": 820543,
-                "v6capable": 7.639209645320233,
-                "v6preferred": 7.568402874681766
-            },
-            {
-                "as": 25472,
-                "as-descr": "",
-                "autnum": "WIND-AS",
-                "cc": "GR",
-                "cumulative": 70.26863179556918,
-                "percent": 12.268213391023751,
-                "samples": 625719,
-                "v6capable": 0.06888075957418585,
-                "v6preferred": 0.05162061564376341
-            },
-            {
-                "as": 1241,
-                "as-descr": "Forthnet",
-                "autnum": "FORTHNET-GR",
-                "cc": "GR",
-                "cumulative": 82.31246741630487,
-                "percent": 12.04383562073569,
-                "samples": 614275,
-                "v6capable": 61.32139514061292,
-                "v6preferred": 61.0654837002971
-            }
-        ],
-        "name": "Greece",
-        "scope": "National",
-        "start": "2020-03-23"
-    },
-    {
-        "cc": "GB",
+    "Austria": {
+        "cc": "AT",
         "end": "2020-04-13",
         "eyeball": [
             {
-                "as": 5607,
-                "as-descr": "",
-                "autnum": "BSKYB-BROADBAND-AS",
-                "cc": "GB",
-                "cumulative": 20.015158021981517,
-                "percent": 20.015158021981517,
-                "samples": 1258373,
-                "v6capable": 93.80215564065662,
-                "v6preferred": 93.13661370674673
+                "as": 25255,
+                "as-descr": "==) TELE2 AUSTRIA (==",
+                "autnum": "H3G-AUSTRIA-AS",
+                "cc": "AT",
+                "cumulative": 19.111848411118483,
+                "percent": 19.111848411118483,
+                "samples": 129607,
+                "v6capable": 0.03626347342350336,
+                "v6preferred": 0.02546158772288534
             },
             {
-                "as": 5089,
-                "as-descr": "",
-                "autnum": "NTL",
-                "cc": "GB",
-                "cumulative": 39.43304544225477,
-                "percent": 19.417887420273257,
-                "samples": 1220822,
-                "v6capable": 0.12376906707120285,
-                "v6preferred": 0.05692885613136067
+                "as": 8447,
+                "as-descr": "A1 Telekom Austria AG",
+                "autnum": "TELEKOM-AT",
+                "cc": "AT",
+                "cumulative": 37.13146059131461,
+                "percent": 18.019612180196123,
+                "samples": 122200,
+                "v6capable": 12.824058919803601,
+                "v6preferred": 11.528641571194763
             },
             {
-                "as": 2856,
-                "as-descr": "BTnet UK Regional network",
-                "autnum": "BT-UK-AS",
-                "cc": "GB",
-                "cumulative": 56.26441443590845,
-                "percent": 16.831368993653673,
-                "samples": 1058205,
-                "v6capable": 67.04608275334175,
-                "v6preferred": 66.41851059104805
+                "as": 6830,
+                "as-descr": "formerly known as UPC Broadband Holding B.V.",
+                "autnum": "LGI-UPC",
+                "cc": "AT",
+                "cumulative": 51.899137358991375,
+                "percent": 14.767676767676768,
+                "samples": 100147,
+                "v6capable": 48.07033660519037,
+                "v6preferred": 47.58704704084995
+            },
+            {
+                "as": 8412,
+                "as-descr": "Rennweg 97-99",
+                "autnum": "TMA",
+                "cc": "AT",
+                "cumulative": 65.0061195900612,
+                "percent": 13.106982231069823,
+                "samples": 88885,
+                "v6capable": 1.4535635934072115,
+                "v6preferred": 1.4434381504190807
             }
         ],
-        "name": "United Kingdom",
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-17",
+                "sunday": "2020-02-23"
+            },
+            "lockdown": {
+                "monday": "2020-03-16",
+                "sunday": "2020-03-22"
+            }
+        },
+        "name": "Austria",
         "scope": "National",
-        "start": "2020-03-23"
+        "start": "2020-03-16"
     },
-    {
-        "cc": "NP",
-        "end": "2020-03-30",
+    "Belgium": {
+        "cc": "BE",
+        "end": "2020-04-05",
         "eyeball": [
             {
-                "as": 17501,
-                "as-descr": "WorldLink Communications Pvt Ltd",
-                "autnum": "WLINK-NEPAL-AS-AP",
-                "cc": "NP",
-                "cumulative": 37.7807030749892,
-                "percent": 37.7807030749892,
-                "samples": 617345,
-                "v6capable": 15.044100138496303,
-                "v6preferred": 14.147356826409869
+                "as": 5432,
+                "as-descr": "",
+                "autnum": "BELGACOM-SKYNET-AS",
+                "cc": "BE",
+                "cumulative": 42.75772019559432,
+                "percent": 42.75772019559432,
+                "samples": 471223,
+                "v6capable": 56.726857560008746,
+                "v6preferred": 56.17022089329256
             },
             {
-                "as": 23752,
-                "as-descr": "Nepal Telecommunications Corporation, Internet Services",
-                "autnum": "NPTELECOM-NP-AS",
-                "cc": "NP",
-                "cumulative": 51.27446264493379,
-                "percent": 13.49375956994459,
-                "samples": 220491,
-                "v6capable": 0.01859486328240155,
-                "v6preferred": 0.01587366377765986
+                "as": 6848,
+                "as-descr": "",
+                "autnum": "TELENET-AS",
+                "cc": "BE",
+                "cumulative": 75.11780029889019,
+                "percent": 32.360080103295864,
+                "samples": 356633,
+                "v6capable": 80.34253700582953,
+                "v6preferred": 79.90707534075646
             },
             {
-                "as": 4007,
-                "as-descr": "Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
-                "autnum": "SUBISU-CABLENET-AS-AP",
-                "cc": "NP",
-                "cumulative": 62.05552924012039,
-                "percent": 10.781066595186601,
-                "samples": 176165,
-                "v6capable": 0.011920642579399994,
-                "v6preferred": 0.010785343286123805
+                "as": 12392,
+                "as-descr": "VOO",
+                "autnum": "ASBRUTELE",
+                "cc": "BE",
+                "cumulative": 85.25012317651127,
+                "percent": 10.132322877621073,
+                "samples": 111666,
+                "v6capable": 87.28619275338957,
+                "v6preferred": 86.85902602403597
             }
         ],
-        "name": "Nepal",
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-17",
+                "sunday": "2020-02-23"
+            },
+            "lockdown": {
+                "monday": "2020-03-16",
+                "sunday": "2020-03-22"
+            }
+        },
+        "name": "Belgium",
         "scope": "National",
-        "start": "2020-03-24"
+        "start": "2020-03-18"
     },
-    {
+    "Colombia": {
         "cc": "CO",
         "end": "2020-04-13",
         "eyeball": [
@@ -892,51 +175,373 @@
                 "as-descr": "Colombia S.A.",
                 "autnum": "Telmex",
                 "cc": "CO",
-                "cumulative": 24.848579657650653,
-                "percent": 24.848579657650653,
-                "samples": 1907701,
-                "v6capable": 9.170042894562618,
-                "v6preferred": 9.09702306598361
+                "cumulative": 24.84690889152315,
+                "percent": 24.84690889152315,
+                "samples": 1886024,
+                "v6capable": 9.234771137588917,
+                "v6preferred": 9.16128320742472
             },
             {
                 "as": 3816,
                 "as-descr": "TELECOMUNICACIONES S.A. ESP",
                 "autnum": "COLOMBIA",
                 "cc": "CO",
-                "cumulative": 39.958857953260676,
-                "percent": 15.110278295610021,
-                "samples": 1160062,
-                "v6capable": 0.0196541219348621,
-                "v6preferred": 0.0082754197620472
+                "cumulative": 39.95778714084751,
+                "percent": 15.11087824932436,
+                "samples": 1147003,
+                "v6capable": 0.01961633927722944,
+                "v6preferred": 0.008282454361496876
             },
             {
                 "as": 13489,
                 "as-descr": "Telecomunicaciones S.A. E.S.P.",
                 "autnum": "EPM",
                 "cc": "CO",
-                "cumulative": 54.43956628524805,
-                "percent": 14.480708331987374,
-                "samples": 1111728,
-                "v6capable": 0.36051983938517335,
-                "v6preferred": 0.3470273304261474
+                "cumulative": 54.432455604830096,
+                "percent": 14.474668463982585,
+                "samples": 1098711,
+                "v6capable": 0.36133250691037044,
+                "v6preferred": 0.3478621766779435
             },
             {
                 "as": 26611,
                 "as-descr": "S.A.",
                 "autnum": "COMCEL",
                 "cc": "CO",
-                "cumulative": 64.64928313376674,
-                "percent": 10.209716848518699,
-                "samples": 783831,
-                "v6capable": 0.01824372855883475,
-                "v6preferred": 0.014033637352949806
+                "cumulative": 64.64863413563499,
+                "percent": 10.2161785308049,
+                "samples": 775467,
+                "v6capable": 0.01831154646168051,
+                "v6preferred": 0.014056046227627997
             }
         ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-24",
+                "sunday": "2020-03-01"
+            },
+            "lockdown": {
+                "monday": "2020-03-23",
+                "sunday": "2020-03-29"
+            }
+        },
         "name": "Colombia",
         "scope": "National",
         "start": "2020-03-25"
     },
-    {
+    "Czech": {
+        "cc": "CZ",
+        "end": "2020-04-01",
+        "eyeball": [
+            {
+                "as": 5610,
+                "as-descr": "",
+                "autnum": "O2-CZECH-REPUBLIC",
+                "cc": "CZ",
+                "cumulative": 20.172537415353098,
+                "percent": 20.172537415353098,
+                "samples": 265869,
+                "v6capable": 43.569953623777124,
+                "v6preferred": 43.17238940982213
+            },
+            {
+                "as": 6830,
+                "as-descr": "formerly known as UPC Broadband Holding B.V.",
+                "autnum": "LGI-UPC",
+                "cc": "CZ",
+                "cumulative": 34.65710654602705,
+                "percent": 14.48456913067395,
+                "samples": 190903,
+                "v6capable": 11.11925951923228,
+                "v6preferred": 11.049066803559922
+            },
+            {
+                "as": 13036,
+                "as-descr": "",
+                "autnum": "TMOBILE-",
+                "cc": "CZ",
+                "cumulative": 45.646389347294146,
+                "percent": 10.989282801267095,
+                "samples": 144836,
+                "v6capable": 11.35491176226905,
+                "v6preferred": 11.274130740976
+            }
+        ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-17",
+                "sunday": "2020-02-23"
+            },
+            "lockdown": {
+                "monday": "2020-03-16",
+                "sunday": "2020-03-22"
+            }
+        },
+        "name": "Czech",
+        "scope": "National",
+        "start": "2020-03-16"
+    },
+    "Denmark": {
+        "cc": "DK",
+        "end": "2020-04-13",
+        "eyeball": [
+            {
+                "as": 3292,
+                "as-descr": "TDC A/S",
+                "autnum": "TDC",
+                "cc": "DK",
+                "cumulative": 40.860386900639625,
+                "percent": 40.860386900639625,
+                "samples": 230102,
+                "v6capable": 0.46066527018452685,
+                "v6preferred": 0.32941912716968996
+            }
+        ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-10",
+                "sunday": "2020-02-16"
+            },
+            "lockdown": {
+                "monday": "2020-03-09",
+                "sunday": "2020-03-15"
+            }
+        },
+        "name": "Denmark",
+        "scope": "National",
+        "start": "2020-03-11"
+    },
+    "El Salvador": {
+        "cc": "SV",
+        "end": "2020-04-01",
+        "eyeball": [
+            {
+                "as": 14754,
+                "as-descr": "",
+                "autnum": "Telgua",
+                "cc": "SV",
+                "cumulative": 51.033171497301105,
+                "percent": 51.033171497301105,
+                "samples": 278339,
+                "v6capable": 0.00431128947075329,
+                "v6preferred": 0.003952015348190516
+            },
+            {
+                "as": 27773,
+                "as-descr": "CABLE EL SALVADOR S.A. DE C.V.",
+                "autnum": "MILLICOM",
+                "cc": "SV",
+                "cumulative": 74.11882480638349,
+                "percent": 23.085653309082375,
+                "samples": 125911,
+                "v6capable": 0.003971058922572293,
+                "v6preferred": 0.003971058922572293
+            },
+            {
+                "as": 17079,
+                "as-descr": "El Salvador S.A.",
+                "autnum": "Telemovil",
+                "cc": "SV",
+                "cumulative": 84.52901314245483,
+                "percent": 10.410188336071345,
+                "samples": 56778,
+                "v6capable": 0.001761245552854979,
+                "v6preferred": 0.001761245552854979
+            }
+        ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-10",
+                "sunday": "2020-02-16"
+            },
+            "lockdown": {
+                "monday": "2020-03-09",
+                "sunday": "2020-03-15"
+            }
+        },
+        "name": "El Salvador",
+        "scope": "National",
+        "start": "2020-03-12"
+    },
+    "France": {
+        "cc": "FR",
+        "end": "2020-04-01",
+        "eyeball": [
+            {
+                "as": 3215,
+                "as-descr": "Telecom - Orange",
+                "autnum": "France",
+                "cc": "FR",
+                "cumulative": 29.65893492302253,
+                "percent": 29.65893492302253,
+                "samples": 2300242,
+                "v6capable": 59.337365372860766,
+                "v6preferred": 59.00648714352664
+            },
+            {
+                "as": 12322,
+                "as-descr": "",
+                "autnum": "PROXAD",
+                "cc": "FR",
+                "cumulative": 45.61430472716264,
+                "percent": 15.955369804140107,
+                "samples": 1237442,
+                "v6capable": 92.44190838843356,
+                "v6preferred": 91.83484963335655
+            },
+            {
+                "as": 15557,
+                "as-descr": "",
+                "autnum": "LDCOMNET",
+                "cc": "FR",
+                "cumulative": 59.844918140925984,
+                "percent": 14.230613413763342,
+                "samples": 1103676,
+                "v6capable": 0.5166371290125,
+                "v6preferred": 0.45348453712865006
+            },
+            {
+                "as": 5410,
+                "as-descr": "",
+                "autnum": "BOUYGTEL-ISP",
+                "cc": "FR",
+                "cumulative": 73.1702555789679,
+                "percent": 13.325337438041911,
+                "samples": 1033466,
+                "v6capable": 38.33807788548438,
+                "v6preferred": 38.01131338621687
+            }
+        ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-17",
+                "sunday": "2020-02-23"
+            },
+            "lockdown": {
+                "monday": "2020-03-16",
+                "sunday": "2020-03-22"
+            }
+        },
+        "name": "France",
+        "scope": "National",
+        "start": "2020-03-17"
+    },
+    "Greece": {
+        "cc": "GR",
+        "end": "2020-04-06",
+        "eyeball": [
+            {
+                "as": 6799,
+                "as-descr": "Athens - Greece",
+                "autnum": "OTENET-GR",
+                "cc": "GR",
+                "cumulative": 41.91424084519631,
+                "percent": 41.91424084519631,
+                "samples": 2124246,
+                "v6capable": 80.60008115820861,
+                "v6preferred": 80.2571830192925
+            },
+            {
+                "as": 3329,
+                "as-descr": "Athens, Greece",
+                "autnum": "HOL-GR",
+                "cc": "GR",
+                "cumulative": 58.00663644218507,
+                "percent": 16.09239559698876,
+                "samples": 815575,
+                "v6capable": 7.638292002574871,
+                "v6preferred": 7.567666983416608
+            },
+            {
+                "as": 25472,
+                "as-descr": "",
+                "autnum": "WIND-AS",
+                "cc": "GR",
+                "cumulative": 70.27081474886825,
+                "percent": 12.264178306683185,
+                "samples": 621558,
+                "v6capable": 0.0690201075362235,
+                "v6preferred": 0.051644416128502894
+            },
+            {
+                "as": 1241,
+                "as-descr": "Forthnet",
+                "autnum": "FORTHNET-GR",
+                "cc": "GR",
+                "cumulative": 82.31717868532778,
+                "percent": 12.046363936459528,
+                "samples": 610519,
+                "v6capable": 61.31815717446959,
+                "v6preferred": 61.06230928111984
+            }
+        ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-24",
+                "sunday": "2020-03-01"
+            },
+            "lockdown": {
+                "monday": "2020-03-23",
+                "sunday": "2020-03-29"
+            }
+        },
+        "name": "Greece",
+        "scope": "National",
+        "start": "2020-03-23"
+    },
+    "Honduras": {
+        "cc": "HN",
+        "end": "2020-03-29",
+        "eyeball": [
+            {
+                "as": 52262,
+                "as-descr": "Celular S.A",
+                "autnum": "Telefonica",
+                "cc": "HN",
+                "cumulative": 23.236920452179742,
+                "percent": 23.236920452179742,
+                "samples": 137290,
+                "v6capable": 0.0021851555102338116,
+                "v6preferred": 0.0021851555102338116
+            },
+            {
+                "as": 14754,
+                "as-descr": "",
+                "autnum": "Telgua",
+                "cc": "HN",
+                "cumulative": 45.326296868626514,
+                "percent": 22.089376416446775,
+                "samples": 130510,
+                "v6capable": 0.0038311240517967973,
+                "v6preferred": 0.0038311240517967973
+            },
+            {
+                "as": 27884,
+                "as-descr": "S.A.",
+                "autnum": "CABLECOLOR",
+                "cc": "HN",
+                "cumulative": 58.31283946062045,
+                "percent": 12.986542591993935,
+                "samples": 76728,
+                "v6capable": 0.0,
+                "v6preferred": 0.0
+            }
+        ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-17",
+                "sunday": "2020-02-23"
+            },
+            "lockdown": {
+                "monday": "2020-03-16",
+                "sunday": "2020-03-22"
+            }
+        },
+        "name": "Honduras",
+        "scope": "National",
+        "start": "2020-03-17"
+    },
+    "India": {
         "cc": "IN",
         "end": "2020-04-15",
         "eyeball": [
@@ -945,29 +550,540 @@
                 "as-descr": "Reliance Jio Infocomm Limited",
                 "autnum": "RELIANCEJIO-IN",
                 "cc": "IN",
-                "cumulative": 46.165281387142834,
-                "percent": 46.165281387142834,
-                "samples": 33840599,
-                "v6capable": 92.24158827685054,
-                "v6preferred": 89.80939728637782
+                "cumulative": 46.141686537035234,
+                "percent": 46.141686537035234,
+                "samples": 33413787,
+                "v6capable": 92.22608619609625,
+                "v6preferred": 89.7703483894238
             },
             {
                 "as": 45609,
                 "as-descr": "Bharti Airtel Ltd. AS for GPRS Service",
                 "autnum": "BHARTI-MOBILITY-AS-AP",
                 "cc": "IN",
-                "cumulative": 67.32210338177073,
-                "percent": 21.156821994627897,
-                "samples": 15508614,
-                "v6capable": 55.360433885323346,
-                "v6preferred": 53.703838395874705
+                "cumulative": 67.31429216435454,
+                "percent": 21.17260562731931,
+                "samples": 15332273,
+                "v6capable": 55.363421979246,
+                "v6preferred": 53.6932260467838
             }
         ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-24",
+                "sunday": "2020-03-01"
+            },
+            "lockdown": {
+                "monday": "2020-03-23",
+                "sunday": "2020-03-29"
+            }
+        },
         "name": "India",
         "scope": "National",
         "start": "2020-03-25"
     },
-    {
+    "Ireland": {
+        "cc": "IE",
+        "end": "2020-03-29",
+        "eyeball": [
+            {
+                "as": 6830,
+                "as-descr": "formerly known as UPC Broadband Holding B.V.",
+                "autnum": "LGI-UPC",
+                "cc": "IE",
+                "cumulative": 19.792403652078566,
+                "percent": 19.792403652078566,
+                "samples": 129244,
+                "v6capable": 49.09705672990622,
+                "v6preferred": 48.48813097706663
+            },
+            {
+                "as": 15502,
+                "as-descr": "",
+                "autnum": "VODAFONE-IRELAND-ASN",
+                "cc": "IE",
+                "cumulative": 39.50318377697941,
+                "percent": 19.710780124900843,
+                "samples": 128711,
+                "v6capable": 0.06603942165005322,
+                "v6preferred": 0.053608471692396145
+            },
+            {
+                "as": 5466,
+                "as-descr": "Internet House",
+                "autnum": "EIRCOM",
+                "cc": "IE",
+                "cumulative": 59.01840434427058,
+                "percent": 19.51522056729117,
+                "samples": 127434,
+                "v6capable": 59.094119308818684,
+                "v6preferred": 58.6735094244864
+            }
+        ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-10",
+                "sunday": "2020-02-16"
+            },
+            "lockdown": {
+                "monday": "2020-03-09",
+                "sunday": "2020-03-15"
+            }
+        },
+        "name": "Ireland",
+        "scope": "National",
+        "start": "2020-03-12"
+    },
+    "Italy": {
+        "cc": "IT",
+        "end": "2020-04-03",
+        "eyeball": [
+            {
+                "as": 3269,
+                "as-descr": "",
+                "autnum": "ASN-IBSNAZ",
+                "cc": "IT",
+                "cumulative": 22.622571568265013,
+                "percent": 22.622571568265013,
+                "samples": 2325982,
+                "v6capable": 0.00683582246122283,
+                "v6preferred": 0.006319911332073937
+            },
+            {
+                "as": 30722,
+                "as-descr": "",
+                "autnum": "VODAFONE-IT-ASN",
+                "cc": "IT",
+                "cumulative": 43.68506841338392,
+                "percent": 21.0624968451189,
+                "samples": 2165580,
+                "v6capable": 0.013668393686679782,
+                "v6preferred": 0.011128658373276444
+            },
+            {
+                "as": 1267,
+                "as-descr": "IUNET",
+                "autnum": "ASN-WINDTRE",
+                "cc": "IT",
+                "cumulative": 60.16768454437487,
+                "percent": 16.482616130990955,
+                "samples": 1694691,
+                "v6capable": 0.01144751462065946,
+                "v6preferred": 0.009559264786323879
+            },
+            {
+                "as": 12874,
+                "as-descr": "",
+                "autnum": "FASTWEB",
+                "cc": "IT",
+                "cumulative": 71.13978474544109,
+                "percent": 10.972100201066226,
+                "samples": 1128117,
+                "v6capable": 37.45223234824047,
+                "v6preferred": 37.233638000313796
+            }
+        ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-10",
+                "sunday": "2020-02-16"
+            },
+            "lockdown": {
+                "monday": "2020-03-09",
+                "sunday": "2020-03-15"
+            }
+        },
+        "name": "Italy",
+        "scope": "National",
+        "start": "2020-03-09"
+    },
+    "Lebanon": {
+        "cc": "LB",
+        "end": "2020-03-29",
+        "eyeball": [
+            {
+                "as": 42003,
+                "as-descr": "OGERO Telecom",
+                "autnum": "OGERONET",
+                "cc": "LB",
+                "cumulative": 17.629258618883494,
+                "percent": 17.629258618883494,
+                "samples": 339939,
+                "v6capable": 6.815046228882241,
+                "v6preferred": 6.714145773212253
+            },
+            {
+                "as": 59989,
+                "as-descr": "",
+                "autnum": "THGLOBALVISION16",
+                "cc": "LB",
+                "cumulative": 29.23834159809902,
+                "percent": 11.609082979215524,
+                "samples": 223854,
+                "v6capable": 0.0067007960545712834,
+                "v6preferred": 0.005360636843657026
+            },
+            {
+                "as": 9051,
+                "as-descr": "",
+                "autnum": "Beirut-Lebanon",
+                "cc": "LB",
+                "cumulative": 40.10976701347221,
+                "percent": 10.87142541537319,
+                "samples": 209630,
+                "v6capable": 0.0233745170061537,
+                "v6preferred": 0.02242045508753518
+            }
+        ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-10",
+                "sunday": "2020-02-16"
+            },
+            "lockdown": {
+                "monday": "2020-03-09",
+                "sunday": "2020-03-15"
+            }
+        },
+        "name": "Lebanon",
+        "scope": "National",
+        "start": "2020-03-15"
+    },
+    "Lithuania": {
+        "cc": "LT",
+        "end": "2020-04-13",
+        "eyeball": [
+            {
+                "as": 8764,
+                "as-descr": "",
+                "autnum": "TELIA-LIETUVA",
+                "cc": "LT",
+                "cumulative": 40.93549461387711,
+                "percent": 40.93549461387711,
+                "samples": 383505,
+                "v6capable": 0.010951617319200533,
+                "v6preferred": 0.010430111732571936
+            },
+            {
+                "as": 1257,
+                "as-descr": "",
+                "autnum": "TELE2",
+                "cc": "LT",
+                "cumulative": 55.81778125040027,
+                "percent": 14.882286636523165,
+                "samples": 139425,
+                "v6capable": 0.0014344629729245114,
+                "v6preferred": 0.0014344629729245114
+            },
+            {
+                "as": 13194,
+                "as-descr": "Bite IP Network",
+                "autnum": "BITE",
+                "cc": "LT",
+                "cumulative": 66.5065559981726,
+                "percent": 10.688774747772326,
+                "samples": 100138,
+                "v6capable": 0.0029958657053266494,
+                "v6preferred": 0.0029958657053266494
+            }
+        ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-17",
+                "sunday": "2020-02-23"
+            },
+            "lockdown": {
+                "monday": "2020-03-16",
+                "sunday": "2020-03-22"
+            }
+        },
+        "name": "Lithuania",
+        "scope": "National",
+        "start": "2020-03-16"
+    },
+    "Malaysia": {
+        "cc": "MY",
+        "end": "2020-04-14",
+        "eyeball": [
+            {
+                "as": 4788,
+                "as-descr": "TM Net, Internet Service Provider",
+                "autnum": "TMNET-AS-AP",
+                "cc": "MY",
+                "cumulative": 33.920075594610154,
+                "percent": 33.920075594610154,
+                "samples": 1726637,
+                "v6capable": 42.01763312149572,
+                "v6preferred": 41.32976416004059
+            },
+            {
+                "as": 9534,
+                "as-descr": "Binariang Berhad",
+                "autnum": "MAXIS-AS1-AP",
+                "cc": "MY",
+                "cumulative": 53.35604314864911,
+                "percent": 19.43596755403895,
+                "samples": 989351,
+                "v6capable": 55.88188620620993,
+                "v6preferred": 54.25819552413653
+            },
+            {
+                "as": 4818,
+                "as-descr": "DiGi Telecommunications Sdn. Bhd.",
+                "autnum": "DIGIIX-AP",
+                "cc": "MY",
+                "cumulative": 67.73345827660792,
+                "percent": 14.377415127958807,
+                "samples": 731855,
+                "v6capable": 62.10369540414426,
+                "v6preferred": 60.99377608952593
+            },
+            {
+                "as": 38466,
+                "as-descr": "U Mobile Sdn Bhd",
+                "autnum": "UMOBILE-AS-AP",
+                "cc": "MY",
+                "cumulative": 80.2102818885294,
+                "percent": 12.476823611921475,
+                "samples": 635109,
+                "v6capable": 42.92334071789252,
+                "v6preferred": 42.215903096948715
+            },
+            {
+                "as": 10030,
+                "as-descr": "Celcom Axiata Berhad",
+                "autnum": "CELCOMNET-AP",
+                "cc": "MY",
+                "cumulative": 91.75918558987567,
+                "percent": 11.548903701346283,
+                "samples": 587875,
+                "v6capable": 50.55037210291304,
+                "v6preferred": 48.96942377206039
+            }
+        ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-17",
+                "sunday": "2020-02-23"
+            },
+            "lockdown": {
+                "monday": "2020-03-16",
+                "sunday": "2020-03-22"
+            }
+        },
+        "name": "Malaysia",
+        "scope": "National",
+        "start": "2020-03-18"
+    },
+    "Morocco": {
+        "cc": "MA",
+        "end": "2020-04-20",
+        "eyeball": [
+            {
+                "as": 36903,
+                "as-descr": "",
+                "autnum": "MT-MPLS",
+                "cc": "MA",
+                "cumulative": 61.903300637018035,
+                "percent": 61.903300637018035,
+                "samples": 2459056,
+                "v6capable": 0.006181233774261343,
+                "v6preferred": 0.006099901750915799
+            },
+            {
+                "as": 6713,
+                "as-descr": "",
+                "autnum": "IAM-AS",
+                "cc": "MA",
+                "cumulative": 83.23951550882775,
+                "percent": 21.33621487180972,
+                "samples": 847563,
+                "v6capable": 0.003185603902010824,
+                "v6preferred": 0.0029496332426026148
+            },
+            {
+                "as": 36925,
+                "as-descr": "",
+                "autnum": "ASMedi",
+                "cc": "MA",
+                "cumulative": 99.65215114734991,
+                "percent": 16.412635638522158,
+                "samples": 651978,
+                "v6capable": 0.004601382255229471,
+                "v6preferred": 0.004601382255229471
+            }
+        ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-17",
+                "sunday": "2020-02-23"
+            },
+            "lockdown": {
+                "monday": "2020-03-16",
+                "sunday": "2020-03-22"
+            }
+        },
+        "name": "Morocco",
+        "scope": "National",
+        "start": "2020-03-19"
+    },
+    "Nepal": {
+        "cc": "NP",
+        "end": "2020-03-30",
+        "eyeball": [
+            {
+                "as": 17501,
+                "as-descr": "WorldLink Communications Pvt Ltd",
+                "autnum": "WLINK-NEPAL-AS-AP",
+                "cc": "NP",
+                "cumulative": 37.7856651221714,
+                "percent": 37.7856651221714,
+                "samples": 606073,
+                "v6capable": 15.11600087778205,
+                "v6preferred": 14.210829388539004
+            },
+            {
+                "as": 23752,
+                "as-descr": "Nepal Telecommunications Corporation, Internet Services",
+                "autnum": "NPTELECOM-NP-AS",
+                "cc": "NP",
+                "cumulative": 51.277263500202,
+                "percent": 13.491598378030593,
+                "samples": 216402,
+                "v6capable": 0.018946220460069683,
+                "v6preferred": 0.016173602831766803
+            },
+            {
+                "as": 4007,
+                "as-descr": "Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
+                "autnum": "SUBISU-CABLENET-AS-AP",
+                "cc": "NP",
+                "cumulative": 62.073185633700255,
+                "percent": 10.795922133498257,
+                "samples": 173164,
+                "v6capable": 0.012127231988173061,
+                "v6preferred": 0.01097225751310896
+            }
+        ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-24",
+                "sunday": "2020-03-01"
+            },
+            "lockdown": {
+                "monday": "2020-03-23",
+                "sunday": "2020-03-29"
+            }
+        },
+        "name": "Nepal",
+        "scope": "National",
+        "start": "2020-03-24"
+    },
+    "Norway": {
+        "cc": "NO",
+        "end": "2020-04-13",
+        "eyeball": [
+            {
+                "as": 2119,
+                "as-descr": "Telenor Norge AS",
+                "autnum": "TELENOR-NEXTEL",
+                "cc": "NO",
+                "cumulative": 30.417988090489178,
+                "percent": 30.417988090489178,
+                "samples": 168519,
+                "v6capable": 38.09896806888244,
+                "v6preferred": 37.817100742349524
+            },
+            {
+                "as": 29695,
+                "as-descr": "Norway",
+                "autnum": "ALTIBOX_AS",
+                "cc": "NO",
+                "cumulative": 45.48303192535889,
+                "percent": 15.065043834869705,
+                "samples": 83462,
+                "v6capable": 2.343581510148331,
+                "v6preferred": 2.117131149505164
+            },
+            {
+                "as": 41164,
+                "as-descr": "GET Norway",
+                "autnum": "GET-NO",
+                "cc": "NO",
+                "cumulative": 55.70918266965819,
+                "percent": 10.2261507442993,
+                "samples": 56654,
+                "v6capable": 1.6627246090302539,
+                "v6preferred": 1.540932679069439
+            }
+        ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-10",
+                "sunday": "2020-02-16"
+            },
+            "lockdown": {
+                "monday": "2020-03-09",
+                "sunday": "2020-03-15"
+            }
+        },
+        "name": "Norway",
+        "scope": "National",
+        "start": "2020-03-12"
+    },
+    "Portugal": {
+        "cc": "PT",
+        "end": "2020-04-02",
+        "eyeball": [
+            {
+                "as": 2860,
+                "as-descr": "",
+                "autnum": "NOS_COMUNICACOES",
+                "cc": "PT",
+                "cumulative": 34.32198723790483,
+                "percent": 34.32198723790483,
+                "samples": 1118939,
+                "v6capable": 0.0332457801542354,
+                "v6preferred": 0.02046581627774168
+            },
+            {
+                "as": 3243,
+                "as-descr": "",
+                "autnum": "MEO-RESIDENCIAL",
+                "cc": "PT",
+                "cumulative": 62.70398386809332,
+                "percent": 28.381996630188493,
+                "samples": 925288,
+                "v6capable": 77.339487813524,
+                "v6preferred": 76.29937922030763
+            },
+            {
+                "as": 12353,
+                "as-descr": "Vodafone Portugal",
+                "autnum": "VODAFONE-PT",
+                "cc": "PT",
+                "cumulative": 86.17251557686626,
+                "percent": 23.46853170877295,
+                "samples": 765103,
+                "v6capable": 46.92230980665348,
+                "v6preferred": 46.7291332016735
+            }
+        ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-17",
+                "sunday": "2020-02-23"
+            },
+            "lockdown": {
+                "monday": "2020-03-16",
+                "sunday": "2020-03-22"
+            }
+        },
+        "name": "Portugal",
+        "scope": "National",
+        "start": "2020-03-19"
+    },
+    "Samoa": {
         "cc": "WS",
         "end": "2020-04-09",
         "eyeball": [
@@ -976,9 +1092,9 @@
                 "as-descr": "Digicel Samoa Ltd",
                 "autnum": "DIGICELSAMOA-WS-AS-AP",
                 "cc": "WS",
-                "cumulative": 48.4412090520652,
-                "percent": 48.4412090520652,
-                "samples": 3061,
+                "cumulative": 48.46264138919866,
+                "percent": 48.46264138919866,
+                "samples": 3042,
                 "v6capable": 0.0,
                 "v6preferred": 0.0
             },
@@ -987,18 +1103,28 @@
                 "as-descr": "Blue Sky Communications",
                 "autnum": "BLUESKY-AS-AP",
                 "cc": "WS",
-                "cumulative": 95.60056971039721,
-                "percent": 47.15936065833201,
-                "samples": 2980,
+                "cumulative": 95.61892623864904,
+                "percent": 47.15628484945037,
+                "samples": 2960,
                 "v6capable": 0.0,
                 "v6preferred": 0.0
             }
         ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-24",
+                "sunday": "2020-03-01"
+            },
+            "lockdown": {
+                "monday": "2020-03-23",
+                "sunday": "2020-03-29"
+            }
+        },
         "name": "Samoa",
         "scope": "National",
         "start": "2020-03-26"
     },
-    {
+    "South Africa": {
         "cc": "ZA",
         "end": "2020-04-16",
         "eyeball": [
@@ -1007,26 +1133,140 @@
                 "as-descr": "",
                 "autnum": "Telkom-Internet",
                 "cc": "ZA",
-                "cumulative": 23.418188516448957,
-                "percent": 23.418188516448957,
-                "samples": 223754,
-                "v6capable": 0.0035753550774511294,
-                "v6preferred": 0.0035753550774511294
+                "cumulative": 23.304315998040828,
+                "percent": 23.304315998040828,
+                "samples": 220295,
+                "v6capable": 0.0036314941328672917,
+                "v6preferred": 0.0036314941328672917
             },
             {
                 "as": 29975,
                 "as-descr": "",
                 "autnum": "VODACOM-",
                 "cc": "ZA",
-                "cumulative": 35.75901309406565,
-                "percent": 12.340824577616694,
-                "samples": 117913,
-                "v6capable": 0.00254424872575543,
-                "v6preferred": 0.00254424872575543
+                "cumulative": 35.63536116162434,
+                "percent": 12.331045163583509,
+                "samples": 116565,
+                "v6capable": 0.0025736713421696047,
+                "v6preferred": 0.0025736713421696047
             }
         ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-24",
+                "sunday": "2020-03-01"
+            },
+            "lockdown": {
+                "monday": "2020-03-23",
+                "sunday": "2020-03-29"
+            }
+        },
         "name": "South Africa",
         "scope": "National",
         "start": "2020-03-26"
+    },
+    "Spain": {
+        "cc": "ES",
+        "end": "2020-04-11",
+        "eyeball": [
+            {
+                "as": 3352,
+                "as-descr": "",
+                "autnum": "TELEFONICA_DE_ESPANA",
+                "cc": "ES",
+                "cumulative": 29.54431343723408,
+                "percent": 29.54431343723408,
+                "samples": 2230736,
+                "v6capable": 0.005469046987182705,
+                "v6preferred": 0.004975936193256396
+            },
+            {
+                "as": 12479,
+                "as-descr": "",
+                "autnum": "UNI2-AS",
+                "cc": "ES",
+                "cumulative": 53.38840271638539,
+                "percent": 23.844089279151312,
+                "samples": 1800342,
+                "v6capable": 13.058296701404512,
+                "v6preferred": 12.979033983543127
+            },
+            {
+                "as": 12430,
+                "as-descr": "",
+                "autnum": "VODAFONE_ES",
+                "cc": "ES",
+                "cumulative": 66.53274131759922,
+                "percent": 13.14433860121383,
+                "samples": 992460,
+                "v6capable": 0.008665336638252424,
+                "v6preferred": 0.007456219898031155
+            }
+        ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-10",
+                "sunday": "2020-02-16"
+            },
+            "lockdown": {
+                "monday": "2020-03-09",
+                "sunday": "2020-03-15"
+            }
+        },
+        "name": "Spain",
+        "scope": "National",
+        "start": "2020-03-14"
+    },
+    "United Kingdom": {
+        "cc": "GB",
+        "end": "2020-04-13",
+        "eyeball": [
+            {
+                "as": 5607,
+                "as-descr": "",
+                "autnum": "BSKYB-BROADBAND-AS",
+                "cc": "GB",
+                "cumulative": 19.99519259428147,
+                "percent": 19.99519259428147,
+                "samples": 1244447,
+                "v6capable": 93.79692345274648,
+                "v6preferred": 93.12971946575468
+            },
+            {
+                "as": 5089,
+                "as-descr": "",
+                "autnum": "NTL",
+                "cc": "GB",
+                "cumulative": 39.41007411792059,
+                "percent": 19.414881523639117,
+                "samples": 1208330,
+                "v6capable": 0.12446930888085209,
+                "v6preferred": 0.05718636465204042
+            },
+            {
+                "as": 2856,
+                "as-descr": "BTnet UK Regional network",
+                "autnum": "BT-UK-AS",
+                "cc": "GB",
+                "cumulative": 56.22040862627257,
+                "percent": 16.810334508351982,
+                "samples": 1046230,
+                "v6capable": 67.05514083901245,
+                "v6preferred": 66.42487789491794
+            }
+        ],
+        "monitoring_dates": {
+            "before": {
+                "monday": "2020-02-24",
+                "sunday": "2020-03-01"
+            },
+            "lockdown": {
+                "monday": "2020-03-23",
+                "sunday": "2020-03-29"
+            }
+        },
+        "name": "United Kingdom",
+        "scope": "National",
+        "start": "2020-03-23"
     }
-]
+}

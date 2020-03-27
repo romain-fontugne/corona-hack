@@ -6,10 +6,11 @@ import sys
 import json
 import requests
 import country_converter as coco
+import datetime
 
 APNIC_URL = 'http://v6data.data.labs.apnic.net/ipv6-measurement/Economies/{cc}/{cc}.asns.json?m=10'
 input_fname = sys.argv[1]
-countries_info = []
+countries_info = {}
 
 with open(input_fname, 'r') as input_fp:
     for line in input_fp:
@@ -49,7 +50,28 @@ with open(input_fname, 'r') as input_fp:
         r = requests.get(APNIC_URL.format(cc=cc))
         country_info['eyeball'] = r.json()
 
-        countries_info.append(country_info)
+
+        # compute monitoring dates
+        # Find monday before the lockdown
+        ye, mo, da = start.split('-')
+        startdate = datetime.datetime(year=int(ye), month=int(mo), day=int(da))
+        monday = startdate - datetime.timedelta(days=startdate.weekday())
+        sunday = monday + datetime.timedelta(days=6)
+
+        country_info['monitoring_dates'] = {'lockdown': {
+                                            'monday':monday.strftime("%Y-%m-%d"), 
+                                            'sunday':sunday.strftime("%Y-%m-%d")} 
+                                            }
+
+        # One month before lockdown
+        before_monday = monday - datetime.timedelta(days=28)
+        before_sunday = sunday - datetime.timedelta(days=28)
+        country_info['monitoring_dates']['before'] = {
+                                    'monday':before_monday.strftime("%Y-%m-%d"), 
+                                    'sunday':before_sunday.strftime("%Y-%m-%d") 
+                                    }
+
+        countries_info[country] = country_info
 
 
 with open('lockdowns.json', 'w') as output_fp:
