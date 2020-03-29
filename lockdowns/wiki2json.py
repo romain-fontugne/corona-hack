@@ -7,6 +7,7 @@ import json
 import requests
 import country_converter as coco
 import datetime
+from ihr.hegemony import Hegemony
 
 APNIC_URL = 'http://v6data.data.labs.apnic.net/ipv6-measurement/Economies/{cc}/{cc}.asns.json?m=10'
 input_fname = sys.argv[1]
@@ -35,21 +36,23 @@ with open(input_fname, 'r') as input_fp:
 
         # Country code
         cc = coco.convert(names=[country], to='ISO2')
+        continent = coco.convert(names=[country], to='continent')
         if cc == 'not found':
             # it might be a country with a composed name
             country = country+" "+state
             cc = coco.convert(names=[country], to='ISO2')
+            continent = coco.convert(names=[country], to='continent')
 
         if cc == 'not found':
             continue
 
         country_info['name'] = country
         country_info['cc'] = cc
+        country_info['continent'] = continent
 
         # get top country's eyeball networks
         r = requests.get(APNIC_URL.format(cc=cc))
         country_info['eyeball'] = r.json()
-
 
         # compute monitoring dates
         # Find monday before the lockdown
@@ -70,6 +73,22 @@ with open(input_fname, 'r') as input_fp:
                                     'monday':before_monday.strftime("%Y-%m-%d"), 
                                     'sunday':before_sunday.strftime("%Y-%m-%d") 
                                     }
+
+        # Get eyeball networks dependencies
+        for eyeball in country_info['eyeball']: 
+            hege = Hegemony(originasns=[eyeball['as']], start=start, end=start)
+            asdependencies = []
+            for page in hege.get_results():
+                for result in page:
+                    if result['hege'] > 0.1 and result['asn']!=eyeball['as'] :
+                        asdependencies.append(
+                                {
+                                   'asn': result['asn'], 
+                                   'name': result['asn_name'],
+                                   'hege': result['hege']
+                                })
+                        eyeball['name'] = result['originasn_name']
+            eyeball['dependency'] = asdependencies
 
         countries_info[country] = country_info
 

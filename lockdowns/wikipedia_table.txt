@@ -1,54 +1,63 @@
-Italy 	2020-03-09[22] 	2020-04-03 	National
-Denmark 	2020-03-11[11] 	2020-04-13 	National
-El Salvador 	2020-03-12[12] 	2020-04-01 	National
-Ireland 	2020-03-12[21] 	2020-03-29 	National
-Norway 	2020-03-12[31] 	2020-04-13 	National
-Poland 	2020-03-13[39] 		National
-Spain 	2020-03-14[44] 	2020-04-11[45] 	National
-Lebanon 	2020-03-15[23] 	2020-03-29 	National
-Philippines 	Luzon 	2020-03-15[38] 	2020-04-14 	Island group
+ Argentina 	2020-03-19[1] 	2020-03-31 	National
+Australia 	2020-03-23[2] 	2020-09-22 	National
 Austria 	2020-03-16[3] 	2020-04-13[4] 	National
-Czech Republic 	2020-03-16[10] 	2020-04-01 	National
-Lithuania 	2020-03-16[24] 	2020-04-13[25] 	National
+Belgium 	2020-03-18[5] 	2020-04-18 	National
 Brazil 	Santa Catarina 	2020-03-17[6] 	2020-03-31 	State
-France 	2020-03-17[14] 	2020-04-01 	National
-Honduras 	2020-03-17[19] 	2020-03-29 	National
-Venezuela 	2020-03-17[58] 		National
-Belgium 	2020-03-18[5] 	2020-04-05 	National
-Malaysia 	2020-03-18[26] 	2020-04-14[27] 	National
-Argentina 	2020-03-19[1] 	2020-03-31 	National
+São Paulo 	2020-03-24[7] 	2020-04-07
 Chile 	2020-03-19[8] 		National
-Morocco 	2020-03-19[28] 	2020-04-20 	National
-Philippines 	Davao Region 	2020-03-19[37] 		Region
-Portugal 	2020-03-19[40] 	2020-04-02 	National
-United States 	California 	2020-03-19[48] 	2020-03-29 	State
-Fiji 	Lautoka 	2020-03-20[13] 		City
-Germany 	Bavaria 	2020-03-20[15] 	2020-04-03 	State
-United States 	Clark County, NV 	2020-03-20[49] 	2020-04-20 	County
-United States 	New York 	2020-03-20[55] 	2020-03-29 	State
-Germany 	Freiburg, BW 	2020-03-21[16] 	2020-04-03 	City
-United States 	Illinois 	2020-03-21[51] 	2020-04-07 	State
-Pakistan 	Gilgit-Baltistan 	2020-03-22[34] 		Administrative
-Tunisia 	2020-03-22[46] 		National
-Australia 	2020-03-23[2] 		National
-Greece 	2020-03-23[17] 	2020-04-06[18] 	National
-Philippines 	Soccsksargen 	2020-03-23[37] 		Region
-United Kingdom 	2020-03-23[47] 	2020-04-13 	National
-United States 	Connecticut 	2020-03-23[50] 	2020-03-29 	State
-Brazil 	São Paulo 	2020-03-24[7] 	2020-04-07 	State
-Nepal 	2020-03-24[29] 	2020-03-30 	National
-Pakistan 	Punjab 	2020-03-24[32] 	2020-04-06 	Province
-Pakistan 	Sindh 	2020-03-24[33] 	2020-04-07 	Province
-Pakistan 	Azad Kashmir 	2020-03-24[35] 	2020-04-07 	Administrative
-United States 	Kansas City, KS 	2020-03-24[52] 	2020-04-23 	City
-United States 	Massachusetts 	2020-03-24[53] 	2020-04-07 	State
-United States 	Michigan 	2020-03-24[54] 	2020-04-14 	State
-United States 	Oregon 	2020-03-24[56] 		State
-United States 	Wisconsin 	2020-03-24[57] 	2020-04-24 	State
 Colombia 	2020-03-25[9] 	2020-04-13 	National
-India 	2020-03-25[20] 	2020-04-15 	National
-Panama 	2020-03-25[36] 		National
-Romania 	2020-03-25[41] 		National
-New Zealand 	2020-03-26[30] 		National
-Samoa 	2020-03-26[42] 	2020-04-09 	National
-South Africa 	2020-03-26[43] 	2020-04-16 	National 
+Czech Republic 	2020-03-16[3] 	2020-04-01 	National
+Denmark 	2020-03-11[10] 	2020-04-13 	National
+Dominican Republic 	2020-03-19[11] 	2020-04-03 	National
+El Salvador 	2020-03-12[12] 	2020-04-01 	National
+Fiji 	Lautoka 	2020-03-20[13] 		City
+Finland 	Uusimaa 	2020-03-27[14] 		Region
+France 	2020-03-17[15] 	2020-04-15 	National
+Germany 	Bavaria 	2020-03-20[16] 	2020-04-03 	State
+Freiburg, BW 	2020-03-21[17] 	2020-04-03 	City
+Greece 	2020-03-23[18] 	2020-04-06[19] 	National
+Honduras 	2020-03-17[20] 	2020-03-29 	National
+Hungary 	2020-03-28[21] 	2020-04-11 	National
+India 	2020-03-25[22] 	2020-04-15 	National
+Indonesia 	Tegal 	2020-03-26[23] 	2020-07-25 	City
+Ireland 	2020-03-12[24] 	2020-04-12 	National
+Italy 	2020-03-09[25] 	2020-04-03 	National
+Jordan 	2020-03-21[26] 		National
+Lebanon 	2020-03-15[27] 	2020-03-29 	National
+Lithuania 	2020-03-16[28] 	2020-04-13[29] 	National
+Malaysia 	2020-03-18[30] 	2020-04-14[31] 	National
+Montenegro 	Tuzi 	2020-03-24[32] 		Municipality
+Morocco 	2020-03-19[33] 	2020-04-20 	National
+Nepal 	2020-03-24[34] 	2020-03-30 	National
+New Zealand 	2020-03-26[35] 		National
+Norway 	2020-03-12[36] 	2020-04-13 	National
+Pakistan 	Punjab 	2020-03-24[37] 	2020-04-06 	Province
+Sindh 	2020-03-24[38] 	2020-04-07 	Province
+Balochistan 	2020-03-24[39] 	2020-04-07 	Province
+Gilgit-Baltistan 	2020-03-22[40] 		Administrative
+Azad Kashmir 	2020-03-24[41] 	2020-04-07 	Administrative
+Panama 	2020-03-25[42] 		National
+Peru 	2020-03-16[43] 		National
+Philippines 	Davao Region 	2020-03-19[44] 		Region
+Luzon 	2020-03-15[45] 	2020-04-14 	Island group
+Soccsksargen 	2020-03-23[44] 		Region
+Poland 	2020-03-13[46] 		National
+Portugal 	2020-03-19[47] 	2020-04-02 	National
+Romania 	2020-03-25[48] 		National
+Rwanda 	2020-03-21[49] 		National
+Samoa 	2020-03-26[50] 	2020-04-09 	National
+South Africa 	2020-03-26[51] 	2020-04-16 	National
+Spain 	2020-03-14[52] 	2020-04-14 	National
+Tunisia 	2020-03-22[53] 		National
+United Kingdom 	2020-03-23[54] 	2020-04-13 	National
+United States 	California 	2020-03-19[55] 	2020-03-29 	State
+Clark County, NV 	2020-03-20[56] 	2020-04-20 	County
+Connecticut 	2020-03-23[57] 	2020-03-29 	State
+Illinois 	2020-03-21[58] 	2020-04-07 	State
+Kansas City, KS 	2020-03-24[59] 	2020-04-23 	City
+Massachusetts 	2020-03-24[60] 	2020-04-07 	State
+Michigan 	2020-03-24[61] 	2020-04-14 	State
+New York 	2020-03-20[62] 	2020-03-29 	State
+Oregon 	2020-03-24[63] 		State
+Wisconsin 	2020-03-24[64] 	2020-04-24 	State
+Venezuela 	2020-03-17[65] 		National 
