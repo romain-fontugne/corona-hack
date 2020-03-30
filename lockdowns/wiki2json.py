@@ -80,7 +80,7 @@ with open(input_fname, 'r') as input_fp:
             asdependencies = []
             for page in hege.get_results():
                 for result in page:
-                    if result['hege'] > 0.1 and result['asn']!=eyeball['as'] :
+                    if result['hege'] > 0.01 and result['asn']!=eyeball['as'] :
                         asdependencies.append(
                                 {
                                    'asn': result['asn'], 
