@@ -9,20 +9,40 @@ import country_converter as coco
 import datetime
 from ihr.hegemony import Hegemony
 
-APNIC_URL = 'http://v6data.data.labs.apnic.net/ipv6-measurement/Economies/{cc}/{cc}.asns.json?m=10'
+APNIC_URL = 'http://v6data.data.labs.apnic.net/ipv6-measurement/Economies/{cc}/{cc}.asns.json?m=5'
 input_fname = sys.argv[1]
 countries_info = {}
 
 with open(input_fname, 'r') as input_fp:
     for line in input_fp:
-        # format: country name, lockdown start, end, scope
-        field = line.split()
-        if len(field) == 4:
-            country, start, end, scope = [x.strip() for x in field]
-        elif len(field) == 5:
-            country, state, start, end, scope = [x.strip() for x in field]
-        else:
+        if len(line) < 5 or line.startswith('#'):
             continue
+
+        print(line)
+        # format: country name, (state,) lockdown start, (end,) scope
+        line, _, scope = line.rpartition(' ')
+        line, _, end = line.rpartition(' ')
+        line, _, start = line.rpartition(' ')
+
+        if start.strip().startswith("20"):
+            country, _, state = line.partition(' ')
+        else:
+            state = start
+            start = end
+            country = line
+
+        scope=scope.strip()
+        end=end.strip()
+        state=state.strip()
+        country=country.strip()
+
+        # field = line.split()
+        # if len(field) == 4:
+            # country, start, end, scope = [x.strip() for x in field]
+        # elif len(field) == 5:
+            # country, state, start, end, scope = [x.strip() for x in field]
+        # else:
+            # continue
 
         # Remove reference from dates
         start = start.partition('[')[0]
@@ -40,6 +60,7 @@ with open(input_fname, 'r') as input_fp:
         if cc == 'not found':
             # it might be a country with a composed name
             country = country+" "+state
+            country=country.strip()
             cc = coco.convert(names=[country], to='ISO2')
             continent = coco.convert(names=[country], to='continent')
 
